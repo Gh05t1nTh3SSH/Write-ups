@@ -4,7 +4,9 @@
 
 ### Welcome
 
-#### Weird Sanity Check
+#### Weird Sanity Check 
+
+[Weird Sanity Check](./Weird Sanity Check.pdf)
 
 ### Forensics
 
