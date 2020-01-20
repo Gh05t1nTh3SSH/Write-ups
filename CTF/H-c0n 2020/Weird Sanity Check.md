@@ -1,6 +1,6 @@
 # Welcome
 
-## Weird Sanity Check
+## 🧠 Weird Sanity Check 🧠
 
 ![Screenshot](https://raw.githubusercontent.com/Gh05t1nTh3SSH/Write-ups/master/CTF/H-c0n%202020/Images/welcome_title.png)
 
@@ -19,7 +19,7 @@ As per termination with characters "==" and the capital strings, we can assume t
 ~~~
 ++++++++++[>+>+++>+++++++>++++++++++<<<<-]>>>++.<+++++++++++++++.>>-.<<+++.>>+++++++++++.+++++++++++++.<<++++++++.-----.-.-.+++++++.>+++++++++++++++++++++++++.++.<-----.+.>.<---.+++++++.-----.+.>.<--.++++.+.+.-------.>+++.-.<+++.>---.++.+.<+++++.--------.+++++++.>..<----.>>++.
 ~~~
-This weird string it's part from one of the [Esoteric Programming Lenguage](https://en.wikipedia.org/wiki/Esoteric_programming_language) called [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck).
+This weird string it's part from one of the [Esoteric Programming Lenguage](https://en.wikipedia.org/wiki/Esoteric_programming_language) called 🧠 [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck). 🧠
 
 The next step was reach the online tool called [Dcode](https://www.dcode.fr/brainfuck-language), where there is a feature to translate Brainfuck code to text.
 
