@@ -4,7 +4,7 @@
 
 ![Screenshot](https://raw.githubusercontent.com/Gh05t1nTh3SSH/Write-ups/master/CTF/H-c0n%202020/Images/welcome_title.png)
 
-After trying to convert the word "weird" to MD5 and try to submit the flag without success, I've took a look at the source code and found the following:
+After trying to convert the word "weird" to MD5 and try to submit the flag without success, I've took a look at the source code finding the following:
 
 ![Screenshot](https://raw.githubusercontent.com/Gh05t1nTh3SSH/Write-ups/master/CTF/H-c0n%202020/Images/source_code.png)
 
