@@ -6,7 +6,7 @@
 
 #### Weird Sanity Check 
 
-[Weird Sanity Check](./"Weird Sanity Check.pdf")
+Weird Sanity Check(./"Weird Sanity Check.pdf")
 
 ### Forensics
 
