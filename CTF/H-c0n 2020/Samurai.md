@@ -22,7 +22,7 @@ The first impression was something weird with the name of the author, however, I
 
 Here I found something useful, a zip compressed inside the png. Binwalk has an option to extract the compressed files
 
-![Screenshot](https://github.com/Gh05t1nTh3SSH/Write-ups/blob/master/CTF/H-c0n%202020/Images/Samurai/listextract.png)
+![Screenshot](https://github.com/Gh05t1nTh3SSH/Write-ups/blob/master/CTF/H-c0n%202020/Images/Samurai/listextractof.png)
 
 Nice! We found a **wav** file. After checking the metadata and properties, I've opened the file with a [Spectrogram](https://en.wikipedia.org/wiki/Spectrogram).
 
