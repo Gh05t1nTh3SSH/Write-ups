@@ -24,9 +24,9 @@ Here I found something useful, a zip compressed inside the png. Binwalk has an o
 
 ![Screenshot](https://github.com/Gh05t1nTh3SSH/Write-ups/blob/master/CTF/H-c0n%202020/Images/Samurai/listextractof.png)
 
-Nice! We found a **wav** file. After checking the metadata and properties, I've opened the file with a [Spectrogram](https://en.wikipedia.org/wiki/Spectrogram).
+Nice! We found a **wav** file. Next step, open the file with a [Spectrogram](https://en.wikipedia.org/wiki/Spectrogram). There is a GUI tool called [Sonic Visualizer](https://www.sonicvisualiser.org/). 
 
-There is a GUI tool called [Sonic Visualizer](https://www.sonicvisualiser.org/). With the option (P), we can open the Spectrogram and see the word 🐱‍👤 **SHINOBI** 🐱‍👤
+Once opened, I've saw the word 🐱‍👤 **SHINOBI** 🐱‍👤
 
 ![Screenshot](https://raw.githubusercontent.com/Gh05t1nTh3SSH/Write-ups/master/CTF/H-c0n%202020/Images/Samurai/spectro.png)
 
@@ -34,7 +34,7 @@ After try to use **SHINOBI** as a password with different stego programs, finall
 
 ![Screenshot](https://raw.githubusercontent.com/Gh05t1nTh3SSH/Write-ups/master/CTF/H-c0n%202020/Images/Samurai/stegpy.png)
 
-The funny thing here is the name of the author of the image **png**, since it is the username of the repository of the tool to extract the secret, but I didn't realize until I found the repository.
+The funny thing here is the name of the author of the image **png**, since it is the username of the repository of the tool to extract the secret, but I didn't realize until I found the repository manually instead of search for the name of the author from the beginning.
 
 ## Flag
 
