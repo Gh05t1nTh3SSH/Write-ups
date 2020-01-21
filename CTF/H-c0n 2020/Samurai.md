@@ -24,7 +24,7 @@ Here I found something useful, a zip compressed inside the png. Binwalk has an o
 
 ![Screenshot](https://github.com/Gh05t1nTh3SSH/Write-ups/blob/master/CTF/H-c0n%202020/Images/Samurai/listextractof.png)
 
-Nice! We found a **wav** file. Next step, open the file with a [Spectrogram](https://en.wikipedia.org/wiki/Spectrogram). There is a GUI tool called [Sonic Visualizer](https://www.sonicvisualiser.org/). 
+Nice! We found a **wav** file. Next step, open the file with a [Spectrogram](https://en.wikipedia.org/wiki/Spectrogram), usually I use a GUI tool called [Sonic Visualizer](https://www.sonicvisualiser.org/). 
 
 Once opened, I've saw the word 🐱‍👤 **SHINOBI** 🐱‍👤
 
