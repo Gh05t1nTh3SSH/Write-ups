@@ -4,7 +4,7 @@
 
 ![Screenshot](https://raw.githubusercontent.com/Gh05t1nTh3SSH/Write-ups/master/CTF/H-c0n%202020/Images/Weird%20Sanity%20Check/welcome_title.png)
 
-After trying to convert the word "weird" to MD5 and try to submit the flag without success, I've took a look at the source code finding a hidden div, which contains a string without display:
+After trying to convert the word "weird" to MD5 and submit the flag without success, I've took a look at the source code finding a hidden div, which contains a string without display:
 
 ![Screenshot](https://raw.githubusercontent.com/Gh05t1nTh3SSH/Write-ups/master/CTF/H-c0n%202020/Images/Weird%20Sanity%20Check/source_code.png)
 
