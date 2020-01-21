@@ -26,7 +26,7 @@ Here I found something useful, a zip compressed inside the png. Binwalk has an o
 
 Nice! We found a **wav** file. After checking the metadata and properties, I've opened the file with a [Spectrogram](https://en.wikipedia.org/wiki/Spectrogram).
 
-There is a GUI tool called [Sonic Visualizer](https://www.sonicvisualiser.org/). With the option (P), we can open the Spectrogram and see the word **SHINOBI**
+There is a GUI tool called [Sonic Visualizer](https://www.sonicvisualiser.org/). With the option (P), we can open the Spectrogram and see the word 🐱‍👤 **SHINOBI** 🐱‍👤
 
 ![Screenshot](https://raw.githubusercontent.com/Gh05t1nTh3SSH/Write-ups/master/CTF/H-c0n%202020/Images/Samurai/spectro.png)
 
