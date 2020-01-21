@@ -31,13 +31,13 @@ The next step was visit the url: *https://bit.ly/2NgCC0O*
 
 ![Screenshot](https://raw.githubusercontent.com/Gh05t1nTh3SSH/Write-ups/master/CTF/H-c0n%202020/Images/Baby%20Malicious/dios.png)
 
-I thought that this is only the first part of the challenge and some stego was involucred, so I took a look at the next parameter of the macro.
+I thought that this is only the first part of the challenge and some stego was involved, so I took a look at the next parameter of the macro.
 
 ![Screenshot](https://raw.githubusercontent.com/Gh05t1nTh3SSH/Write-ups/master/CTF/H-c0n%202020/Images/Baby%20Malicious/bps.png)
 
 [BPStegano](https://github.com/TapanSoni/BPStegano) is a steganography tool created by students at Rowan University for their graduate cryptography class. 
 
-Once we use the tool with the image found giving **SALCHICHON** as a password, we get the flag
+Once we use the tool with the image found giving **SALCHICHON** as password, we get the flag
 
 ![Screenshot](https://raw.githubusercontent.com/Gh05t1nTh3SSH/Write-ups/master/CTF/H-c0n%202020/Images/Baby%20Malicious/decode.png)
 
