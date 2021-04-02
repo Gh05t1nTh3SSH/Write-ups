@@ -1,7 +1,5 @@
 # H-c0n qualifier CTF 2020
 
-![Screenshot](https://ctf.h-c0n.com/files/beb7d29117e723b77b97b9241bc64a4b/diseno_v5_rojo-azul_PNG_sin_brillo.png)
-
    - Organized: [HackPlayers](https://www.hackplayers.com)
    - Conference Website: https://www.h-c0n.com/p/home.html
    - Challenges Website: https://ctf.h-c0n.com/
