@@ -12,4 +12,4 @@ Write-ups / Walkthroughs for CTF - Machines - Challenges
 | Challenge website | Write-up/Walkthroughs |
 | ------------- | ------------- |
 | [Hack The Box](https://www.hackthebox.eu/)  | In Process...  |
-| [CCN-CERT Atenea](https://atenea.ccn-cert.cni.es/home)  | In Process...  |
+| [CCN-CERT Atenea](https://atenea.ccn-cert.cni.es/home)  | [Link](https://github.com/Gh05t1nTh3SSH/Write-ups/tree/master/CCN-CERT%20ATENEA)  |
