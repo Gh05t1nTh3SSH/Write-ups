@@ -8,6 +8,6 @@ Writeups for CCN-CERT ATENEA challenges written in English.
 
 ## Important notes
 
-All the writeups here are protected with the corresponding flag.
+All the writeups here are protected with the corresponding challenge flag.
 
 ![atenea_writeups logo](./Images/atenea.jpg)
