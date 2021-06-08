@@ -3,7 +3,7 @@
 Writeups for Hack The Box machines (boot2root) and challenges written in English.
 
 <p align="center">
-  <img src="https://github.com/Ghost1nTh3SSH/Write-ups/tree/master/Hack%20The%20Box/Images/htb.jpg" />
+  <img src="https://github.com/Ghost1nTh3SSH/Write-ups/blob/master/Hack%20The%20Box/Images/htb.png" />
 </p>
 
 <p align="center">
@@ -17,5 +17,5 @@ All the writeups of ongoing machines and challenges are protected with the corre
 Retired machines and challenges will not have password to check the writeup.
 
 <p align="center">
-  <img src="https://github.com/Ghost1nTh3SSH/Write-ups/tree/master/Hack%20The%20Box/Images/banner.jpg" />
+  <img src="https://github.com/Ghost1nTh3SSH/Write-ups/blob/master/Hack%20The%20Box/Images/banner.png" />
 </p>
