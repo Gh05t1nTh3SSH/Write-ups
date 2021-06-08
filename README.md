@@ -4,7 +4,7 @@ Write-ups / Walkthroughs for CTF - Machines - Challenges
 
 | Challenge website | Write-up/Walkthroughs |
 | ------------- | ------------- |
-| [Hack The Box](https://www.hackthebox.eu/)  | In Process...  |
+| [Hack The Box](https://www.hackthebox.eu/)  | [Link](https://github.com/Ghost1nTh3SSH/Write-ups/tree/master/Hack%20The%20Box)  |
 | [CCN-CERT Atenea](https://atenea.ccn-cert.cni.es/home)  | [Link](https://github.com/Gh05t1nTh3SSH/Write-ups/tree/master/CCN-CERT%20ATENEA)  |
 
 | CTF name | Write-up/Walkthroughs |
