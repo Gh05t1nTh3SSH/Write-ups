@@ -2,7 +2,9 @@
 
 Writeups for CCN-CERT ATENEA challenges written in English.
 
-![atenea_writeups logo](./Images/ccn-cert.jpg)
+<p align="center">
+    ![atenea_writeups logo](./Images/ccn-cert.jpg)
+</p>
 
 <https://atenea.ccn-cert.cni.es/>
 
@@ -10,4 +12,6 @@ Writeups for CCN-CERT ATENEA challenges written in English.
 
 All the writeups here are protected with the corresponding challenge flag.
 
-![atenea_writeups logo](./Images/atenea.jpg)
+<p align="center">
+    ![atenea_writeups logo](./Images/atenea.jpg)
+</p>
